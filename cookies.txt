@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-localhost:8011	TRUE	/techsoft/	FALSE	1999999999	woocommerce_items_in_cart	1
-localhost:8011	TRUE	/techsoft/	FALSE	1999999999	wp_woocommerce_session_5007b4a563ebbb946dd2bbf7c8aa60cf	f4eac983931884eb2bd1ba6d77ae1dff%7C%7C1622092326%7C%7C1622088726%7C%7Cd510b38f34d8686ee3f5720af226f75e
-localhost:8011	TRUE	/techsoft/	FALSE	1999999999	woocommerce_cart_hash	09699057a15e0984f8b50d747f080124
-
